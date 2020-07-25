@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53" started-at="2020-06-20T14:16:16 GST" finished-at="2020-06-20T14:16:16 GST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53" started-at="2020-06-20T14:16:16 GST" finished-at="2020-06-20T14:16:16 GST">
+      <class name="rsacademy.seleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:rsacademy.seleniumTest@3532ec19]" name="browserAutomation" duration-ms="1" started-at="2020-06-20T14:16:16 GST" finished-at="2020-06-20T14:16:16 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- rsacademy.seleniumTest -->
+      <class name="rsacademy.APITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:rsacademy.APITest@26653222]" name="deleteTwitter" duration-ms="7" started-at="2020-06-20T14:16:16 GST" finished-at="2020-06-20T14:16:16 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:rsacademy.APITest@26653222]" name="postJira" duration-ms="0" started-at="2020-06-20T14:16:16 GST" finished-at="2020-06-20T14:16:16 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- rsacademy.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
